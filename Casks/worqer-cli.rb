@@ -1,15 +1,15 @@
 cask "worqer-cli" do
-  version "0.1.0"
+  version "0.1.5"
 
   on_arm do
-    sha256 "d9f295534e01eeeae4007ac5d67edb767593baa2667e52a2fa2a1cac7ad1d946"
-    url "https://github.com/iagorithm/homebrew-tap/releases/download/v0.1.0/worqer-cli_0.1.0_darwin_arm64.tar.gz",
+    sha256 "055b08c0b6998df61ecc565ddf97c3d4d25923b23b623bbb0736c92fbb9c2969"
+    url "https://github.com/iagorithm/homebrew-tap/releases/download/v0.1.5/worqer-cli_0.1.5_darwin_arm64.tar.gz",
         verified: "github.com/iagorithm/homebrew-tap/"
   end
 
   on_intel do
-    sha256 "e47d46f0f3da036dd092b7c1239932166737e1381a5d7cafc0ba620512ca15ae"
-    url "https://github.com/iagorithm/homebrew-tap/releases/download/v0.1.0/worqer-cli_0.1.0_darwin_amd64.tar.gz",
+    sha256 "9b6dc01f42e256e4d1b44e3ad463412cff4da23796a51e79b6d3293fd741b7a6"
+    url "https://github.com/iagorithm/homebrew-tap/releases/download/v0.1.5/worqer-cli_0.1.5_darwin_amd64.tar.gz",
         verified: "github.com/iagorithm/homebrew-tap/"
   end
 
